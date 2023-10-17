@@ -1,0 +1,41 @@
+body {
+	background-repeat : no-repeat;
+	background-attachment : fixed;
+	background-position : center;
+	background-size : 100%;
+	background-image:url(https://cdn.theatlantic.com/thumbor/FKNczwblThP3vxUnV7qIVgeYUM0=/0x122:2500x1528/1600x900/media/img/mt/2016/09/RTS7HE9/original.jpg);
+}
+h1	{
+	text-align: center;
+	background-color: #A5B9D6;
+	font-family: Times New Roman;
+	border-color: blue;
+	border-width: 2px;
+	border-style: dotted;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	width: 250px;
+	margin-bottom: 20px;
+}
+p	{
+	text-align: justify;
+	background-color: hsl(277, 100%, 91%);
+	font-style: italic;
+	padding: 20px;
+	border-color: black;
+	border-width: 3px;
+	border-bottom-style: dotted;
+	border-top-style: dashed;
+	border-left-style: double;
+	border-right-style: solid;
+	width: 500px;
+}
+span {
+	font-weight: bold;
+	font-style: italic;
+	color: rgb(92, 66, 86);
+	margin-left: 2px;
+	margin-right: 5px;
+}
